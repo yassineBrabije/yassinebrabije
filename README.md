@@ -3,9 +3,9 @@
 ### hello everyone, it's Me Yassine Brabije  [ybrabije][website] 👋
 
 - 🌐 I'm Web Developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 💪
 - 🥅 2021 Goals: To be web developer
-- ⚡ Fun fact: I love Gym and videos 
+- ⚡ Fun fact: I love Gym 🏋 and videos Games🎮
 
 ### Connect with me:
 
