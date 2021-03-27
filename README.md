@@ -12,9 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="ybrabije.ml" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/744/744480.svg?token=exp=1616869911~hmac=a865f270824593b1793cf70aa8668413" />][website]
-[<img align="left" alt="ybrabije | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ybrabije | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ybrabije | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ybrabije | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179342.svg?token=exp=1616870012~hmac=22feec2606f7aec30022d94e73c46b94" />][twitter]
+[<img align="left" alt="ybrabije | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179330.svg?token=exp=1616870044~hmac=dc21c7914d20d3d6e55b83a6597f65a9" />][linkedin]
+[<img align="left" alt="ybrabije | Instagram" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3955/3955024.svg" />][instagram]
 
 <br />
 
