@@ -2,8 +2,6 @@
 
 ### hello everyone, it's Me Yassine Brabije  [ybrabije][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🌐 I'm Web Developer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: To be web developer
@@ -22,9 +20,13 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" style="border-radius: 25%"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="scss" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919831.svg?token=exp=1616870383~hmac=338339d8f82c262509715619e03a3f31" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="nodejs" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1616870473~hmac=ab5f5ddb11b928c2308294dcba3989e9" />
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+
 <br />
 <br />
 
