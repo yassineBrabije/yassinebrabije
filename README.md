@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### hello everyone, it's Me Yassine Brabije  [Ybrabije][website] 👋
+### Hello Everyone, It's Me Yassine Brabije  [Ybrabije][website] 👋
 
 - 🌐 I'm Web Developer
 - 🌱 I’m currently learning everything 💪
