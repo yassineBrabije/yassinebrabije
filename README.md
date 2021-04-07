@@ -18,8 +18,7 @@
 <img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/128/1260/1260667.png" /> 
 <img align="left" alt="nodejs" width="26px" src="https://image.flaticon.com/icons/png/128/919/919825.png" /> 
 
- <br />
- <br />
+
 
 ### Connect with me:
 <br />
