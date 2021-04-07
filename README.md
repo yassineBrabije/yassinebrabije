@@ -13,8 +13,8 @@
 <img align="left" alt="scss" width="26px" src="https://image.flaticon.com/icons/png/128/919/919831.png" /> 
 <img align="left" alt="mysql" width="26px" src="https://image.flaticon.com/icons/png/128/919/919828.png" /> 
 <img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1616871033~hmac=ca1e7d1a703c546b8272bad7b5984a53"/> 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
-<img align="left" alt="nodejs" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1616870473~hmac=ab5f5ddb11b928c2308294dcba3989e9" /> 
+<img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/128/1260/1260667.png" /> 
+<img align="left" alt="nodejs" width="26px" src="https://image.flaticon.com/icons/png/128/919/919825.png" /> 
 
  <br />
  <br />
