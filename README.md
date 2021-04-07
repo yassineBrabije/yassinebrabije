@@ -12,6 +12,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/128/732/732190.png" /> 
 <img align="left" alt="scss" width="26px" src="https://image.flaticon.com/icons/png/128/919/919831.png" /> 
  <br />
+  <br />
+   <br />
 <img align="left" alt="mysql" width="26px" src="https://image.flaticon.com/icons/png/128/919/919828.png" /> 
 <img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/128/919/919836.png"/> 
 <img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/128/1260/1260667.png" /> 
