@@ -12,7 +12,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/128/732/732190.png" /> 
 <img align="left" alt="scss" width="26px" src="https://image.flaticon.com/icons/png/128/919/919831.png" /> 
 <img align="left" alt="mysql" width="26px" src="https://image.flaticon.com/icons/png/128/919/919828.png" /> 
-<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1616871033~hmac=ca1e7d1a703c546b8272bad7b5984a53"/> 
+<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/128/919/919836.png"/> 
 <img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/128/1260/1260667.png" /> 
 <img align="left" alt="nodejs" width="26px" src="https://image.flaticon.com/icons/png/128/919/919825.png" /> 
 
@@ -21,10 +21,10 @@
  <br />
 ### Connect with me:
 
-[<img align="left" alt="ybrabije.ml" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/744/744480.svg?token=exp=1616869911~hmac=a865f270824593b1793cf70aa8668413" />][website]
-[<img align="left" alt="ybrabije | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179342.svg?token=exp=1616870012~hmac=22feec2606f7aec30022d94e73c46b94" />][twitter]
-[<img align="left" alt="ybrabije | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179330.svg?token=exp=1616870044~hmac=dc21c7914d20d3d6e55b83a6597f65a9" />][linkedin]
-[<img align="left" alt="ybrabije | Instagram" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3955/3955024.svg" />][instagram]
+[<img align="left" alt="ybrabije.ml" width="22px" src="https://image.flaticon.com/icons/png/128/975/975645.png" />][website]
+[<img align="left" alt="ybrabije | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter]
+[<img align="left" alt="ybrabije | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/145/145807.png" />][linkedin]
+[<img align="left" alt="ybrabije | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/3955/3955024.png" />][instagram]
 
 
 
