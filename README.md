@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love Gym 🏋 and videos Games🎮
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/128/331/331392.png" /> 
-<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/128/331/331382.png" /> 
+<img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/128/174/174854.png" /> 
+<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/128/732/732190.png" /> 
 <img align="left" alt="scss" width="26px" src="https://image.flaticon.com/icons/png/128/919/919831.png" /> 
 <img align="left" alt="mysql" width="26px" src="https://image.flaticon.com/icons/png/128/919/919828.png" /> 
 <img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1616871033~hmac=ca1e7d1a703c546b8272bad7b5984a53"/> 
