@@ -20,16 +20,13 @@
  <br />
  <br />
 ### Connect with me:
+<br />
 
 [<img align="left" alt="ybrabije.ml" width="22px" src="https://image.flaticon.com/icons/png/128/975/975645.png" />][website]
 [<img align="left" alt="ybrabije | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter]
 [<img align="left" alt="ybrabije | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/145/145807.png" />][linkedin]
 [<img align="left" alt="ybrabije | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/3955/3955024.png" />][instagram]
 
-
-
-<br />
-<br />
 
 --- 
 [website]: https://ybrabije.ml
